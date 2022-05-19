@@ -17,3 +17,6 @@ cd nigg
 chmod 777 *
 
 python fb-group-hack.py
+
+
+NOTA: no soy autor del script
