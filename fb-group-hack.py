@@ -52,7 +52,7 @@ print "                      %sAnd %sMaNiSh%s" % (W, R, N)
 
 print " %sCode: %sPython%s" % (W, C, N)
 
-print " %sFB: %shttps://m.facebook.com/anon.nemrmedo%s" % (W, B, N)
+print " %sFB: %shttps://m.facebook.com/groups/2685757028387485" % (W, B, N)
 
 print " %sThis purpose is for educational only%s" % (C, N)
 
