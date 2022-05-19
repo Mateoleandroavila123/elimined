@@ -1,9 +1,8 @@
 # nigg
 
-dependencias:
-git:
- - debian y derivados: sudo apt install git
- - termux: dpkg install git 
+dependencias (python):
+ - debian y derivados: sudo apt install python
+ - termux: dpkg install python
  
  
 instalacion:
